@@ -43,3 +43,6 @@ PREREQUISITES
 - Apollo.io account
 - Emailable account
 - Google Sheets with two tabs: Jobs and Raw Leads
+
+<img width="1796" height="624" alt="image" src="https://github.com/user-attachments/assets/0fc8b4fc-11a2-44b3-8627-9deacf475732" />
+
